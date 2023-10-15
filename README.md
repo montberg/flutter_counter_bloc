@@ -1,3 +1,3 @@
-# flutter_application_1
+# Flutter counter
 
-A new Flutter project.
+A default flutter counter with BLoC implementation
